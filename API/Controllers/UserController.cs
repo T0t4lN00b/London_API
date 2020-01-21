@@ -15,7 +15,7 @@ namespace API.Controllers
         //Return all users that are within 50 miles of London by entering mileage into URL by calling controller for example
         //https://bpdts-test-app.herokuapp.com/users/50
 
-        public IHttpActionResult GetAllUsersWithin50Miles(double id)
+        public IHttpActionResult GetAllUsersWithin50Miles(double distance)
         {
             var client = new WebClient();
             var content = client.DownloadString("https://bpdts-test-app.herokuapp.com/users");
@@ -26,7 +26,7 @@ namespace API.Controllers
             foreach (var users in list)
             {
                 //check to see if this user is within 50 miles of London
-                if (IsUserWithinSpecifiedDistanceOfLondon(users, id))
+                if (IsUserWithinSpecifiedDistanceOfLondon(users, distance))
                 {
                     //add to output list
                     outputList.Add(users);
