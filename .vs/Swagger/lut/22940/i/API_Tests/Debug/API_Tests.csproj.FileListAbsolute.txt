@@ -1,0 +1,8 @@
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\b\API_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\b\API_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\b\API_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\b\API_Tests\bin\Debug\API_Tests.dll
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API_Tests\Debug\API_Tests.csprojAssemblyReference.cache
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API_Tests\Debug\API_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API_Tests\Debug\API_Tests.csproj.CopyComplete
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API_Tests\Debug\API_Tests.dll

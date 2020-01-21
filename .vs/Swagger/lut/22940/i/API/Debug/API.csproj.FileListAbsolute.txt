@@ -1,0 +1,6 @@
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\b\API\bin\API.dll.config
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\b\API\bin\API.dll
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API\Debug\API.csprojAssemblyReference.cache
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API\Debug\API.csproj.CopyComplete
+C:\Users\Carl Chesworth\source\repos\Swagger\.vs\Swagger\lut\0\i\API\Debug\API.dll
